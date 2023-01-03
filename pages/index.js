@@ -56,23 +56,23 @@ const Home = () => {
           </div>
           <div className="card my-auto" style={{ width: "18rem" }}>
             <div className="card-body d-flex flex-column justify-content-between" style={{height: "15rem"}}>
-              <h5 className="card-title">Form</h5>
+              <h5 className="card-title">Search Input</h5>
               <p className="card-text">
-                A simple form with no libraries.
+                A simple search-input
               </p>
-              <a href="https://github.com/ChrisDietrich405/form" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
-                Form
+              <a href="https://github.com/ChrisDietrich405/search-input" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+                Search Input
               </a>
             </div>
           </div>
           <div className="card" style={{ width: "18rem" }}>
             <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Navbar</h5>
+              <h5 className="card-title">Slideshow</h5>
               <p className="card-text">
-               A simple navbar with responsivity and hamburger menu from 15 react apps
+               A slideshow with arrows for users to scroll
               </p>
-              <a href="https://github.com/ChrisDietrich405/15-navbar" className="btn btn-primary">
-                Navbar
+              <a href="https://github.com/ChrisDietrich405/15-slider" className="btn btn-primary">
+                Slideshow
               </a>
             </div>
           </div>
